@@ -9,3 +9,6 @@ data/
 
 # logs
 logs/
+
+# test
+test_code/
